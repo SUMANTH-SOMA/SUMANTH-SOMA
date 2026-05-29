@@ -1,93 +1,173 @@
 <h1 align="center">Hi 👋, I'm Sumanth Soma</h1>
 
 <h3 align="center">
-Building Intelligent Systems with AI, Robotics & Embedded Technology
+Embedded AI Enthusiast | Robotics Builder | Frontend Developer | Google Gemini Campus Ambassador
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+ECE+Student;Embedded+AI+Enthusiast;Robotics+Developer;AI+Automation+Builder;Frontend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=B.Tech+ECE+Student;Embedded+Systems+Engineer+in+Progress;AI+%26+Automation+Explorer;Robotics+Developer;Frontend+Developer;Google+Gemini+Campus+Ambassador" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SUMANTH-SOMA&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech Electronics & Communication Engineering Student
 
-🤖 Passionate about Robotics, Embedded Systems and AI
+🤖 Passionate about Embedded Systems, Robotics, AI and Automation
 
-🔧 Working with Arduino, Raspberry Pi and IoT Systems
+💡 Building intelligent systems by combining hardware and software
 
-🧠 Exploring AI Automation using n8n and CrewAI
+🔧 Hands-on experience with Arduino, Raspberry Pi, Sensors, IoT and Automation Workflows
 
-💻 Developing Frontend and Full-Stack Projects
+🧠 Exploring AI Agents, LLM Applications and Workflow Automation
 
-🌱 Continuously learning AI, Data Science and Embedded AI
+🌱 Continuously learning Full Stack Development, Data Science and Embedded AI
 
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Embedded & Robotics
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### AI & Automation
-
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+💬 Ask me about:
+- Embedded Systems
+- Robotics
+- Arduino & Raspberry Pi
+- AI Automation
+- n8n Workflows
+- Frontend Development
 
 ---
 
-## 🌐 Connect With Me
+# 💼 Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soma%20Sumanth-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soma-sumanth-158656255)
+### 🔹 Embedded Systems Intern
+**Pantech ProLabs**
+- Worked on embedded systems concepts and practical implementations
+- Gained hands-on experience with microcontrollers and hardware interfacing
+
+### 🔹 AI & Automation Engineering Intern
+**Data Valley**
+- Worked on AI-driven automation workflows
+- Explored modern AI tools and intelligent process automation
+
+### 🔹 Frontend Developer Intern
+**InternSpark**
+- Developing responsive web applications
+- Working with modern frontend technologies and UI design
+
+### 🔹 Google Gemini Campus Ambassador
+- Promoting AI awareness and innovation among students
+- Organizing and participating in AI-focused activities and initiatives
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,js" />
+</p>
+
+## Embedded & Robotics
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+## Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+## AI & Automation
+
+- n8n
+- CrewAI
+- LLM Applications
+- AI Workflow Automation
+- Prompt Engineering
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 AI Email Automation Bot
+AI-powered email automation workflow built using n8n and modern automation techniques.
+
+### 🔧 Robotics Projects
+Embedded and robotics projects involving sensors, actuators, Arduino and Raspberry Pi.
+
+### 🌐 Frontend Development Projects
+Responsive web applications and modern user interfaces.
+
+### 🧠 AI Automation Workflows
+Workflow automation systems using AI tools and intelligent agents.
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SUMANTH-SOMA&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMANTH-SOMA&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SUMANTH-SOMA&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMANTH-SOMA&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SUMANTH-SOMA&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=SUMANTH-SOMA&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SUMANTH-SOMA&theme=tokyonight&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=SUMANTH-SOMA&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
 
-## 👀 Profile Views
+# 📊 Contribution Graph
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SUMANTH-SOMA&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUMANTH-SOMA&theme=tokyo-night"/>
 </p>
 
 ---
 
-⭐ Always excited to collaborate on AI, Robotics, Embedded Systems and Innovative Projects.
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/soma-sumanth-158656255">
+<img src="https://img.shields.io/badge/LinkedIn-Soma%20Sumanth-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
+
+---
+
+# ⚡ Fun Facts
+
+⚡ I enjoy building intelligent systems that combine AI and hardware.
+
+⚡ Robotics and Embedded Systems are where software meets the real world.
+
+⚡ I love exploring automation workflows and turning repetitive tasks into smart solutions.
+
+⚡ Always open to collaborating on innovative projects involving AI, Robotics and Embedded Technology.
+
+---
+
+<p align="center">
+⭐ If you like my work, consider following my journey and checking out my repositories!
+</p>
