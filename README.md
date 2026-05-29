@@ -113,30 +113,6 @@ Workflow automation systems using AI tools and intelligent agents.
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SUMANTH-SOMA&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMANTH-SOMA&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SUMANTH-SOMA&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SUMANTH-SOMA&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
 
 # 📊 Contribution Graph
 
